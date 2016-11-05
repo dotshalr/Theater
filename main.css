@@ -10141,7 +10141,6 @@ a.for-poster .thum.active {
 .table-responsive {
   overflow-x: auto;
   min-height: 0.01%;
-  overflow-y: hidden;
   font-family: for-inner-detail;
 }
 @media screen and (max-width: 767px) {
